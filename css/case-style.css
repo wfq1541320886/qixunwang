@@ -1,0 +1,28 @@
+.my-style-logo{
+    padding-top: 0;
+}
+body>article{
+    margin-top: 55px;
+}
+body>article>.jumbotron{
+    background-color: black;
+    color: #e3e3e3
+}
+body>article>.jumbotron>h2{
+    font-size: 35px;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.company{
+    background-color:#eee ;
+}
+.company .row{
+    margin-top: 40px;
+}
+.company img{
+    margin-bottom: 20px;
+}
+/*.thumbnail{*/
+    /*padding: 15px;*/
+/*}*/

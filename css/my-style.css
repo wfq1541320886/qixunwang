@@ -1,0 +1,51 @@
+.my-style-logo{
+    padding-top: 0;
+}
+.item>img{
+    margin: auto;
+}
+body>article{
+    margin-top: 50px;
+}
+.carousel-control{
+    font-weight: 700;
+}
+#section2{
+    padding-top: 30px;
+}
+#section2>.container>p{
+    font-size: 20px;
+    color: grey;
+}
+#section2>.container>.row{
+    margin-top:30px;
+}
+#section2>.container>.row h4{
+    display: block;
+    margin-bottom: 30px;
+}
+#section2>.container>.row del{
+    display: block;
+    margin-bottom: 5px;
+    color: grey;
+}
+#section2>.container>.row>div{
+    padding-left: 40px;
+    margin-bottom: 40px;
+}
+#section3>div>.container{
+    padding: 50px;
+}
+#section3>div:nth-child(1)>.container>.row>div>img{
+    width: 40%;
+}
+#section3>div:nth-child(2)>.container>.row>div>img{
+    width: 80%;
+}
+#section3>div:nth-child(1)>.container>.row>div:nth-child(2){
+    margin-top: 100px;
+    float: left;
+}
+#section3>div:nth-child(1)>.container>.row>div:nth-child(1){
+    float: right;
+}

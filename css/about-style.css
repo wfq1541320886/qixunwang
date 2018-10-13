@@ -1,0 +1,23 @@
+.my-style-logo{
+    padding-top: 0;
+}
+body>article{
+    margin-top: 55px;
+}
+body>article>.jumbotron{
+    background-color: black;
+    color: #e3e3e3
+}
+body>article>.jumbotron>h2{
+    font-size: 35px;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.right>h3{
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+.right>p{
+    line-height: 27px;
+}
